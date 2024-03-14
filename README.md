@@ -1,0 +1,1 @@
+This GitHub repository hosts a collection of simulations dedicated to solving stochastic differential equations (SDEs) and Monte Carlo simulations, developed as part of my master's degree coursework. 
